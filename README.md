@@ -160,7 +160,7 @@ Check out my pinned repositories and GitHub activity below for the latest work, 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fakihazahoor168-ctrl&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=fakihazahoor168-ctrl&theme=radical&row=1&column=7"/>
 </div>
 
 <br/>

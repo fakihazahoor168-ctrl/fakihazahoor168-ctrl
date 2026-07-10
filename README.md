@@ -145,12 +145,12 @@ Check out my pinned repositories and GitHub activity below for the latest work, 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fakihazahoor168-ctrl&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=3B82F6&text_color=c9d1d9&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-rickstaa.vercel.app/api?username=fakihazahoor168-ctrl&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=3B82F6&text_color=c9d1d9&count_private=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fakihazahoor168-ctrl&theme=radical&hide_border=true&background=0f0c29&stroke=A78BFA&ring=8B5CF6&fire=A855F7&currStreakLabel=c9d1d9"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakihazahoor168-ctrl&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=fakihazahoor168-ctrl&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=fakihazahoor168-ctrl&theme=react-dark&hide_border=true&bg_color=0f0c29&color=A78BFA&line=8B5CF6&point=ffffff"/>
 
 </div>

@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Fakiha%20Zahoor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Software%20Engineering%20Student%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
@@ -28,19 +27,18 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212750996-938bf87f-99b1-4a63-b3d4-d5eda29d1a72.gif">
 
-```yaml
-fakiha_zahoor:
-  role: "MERN Stack Developer"
-  status: "Software Engineering Student"
-  passion: "Building AI-powered, real-world applications"
-  currently_building: "SkillSync - AI powered collaboration platform"
-  strengths:
-    - Full-Stack Web Development (MERN)
-    - Clean UI/UX Implementation
-    - AI/ML Integration into Web Apps
-    - Problem Solving & System Design
-  fun_fact: "I turn coffee ☕ into scalable code 💻"
-```
+**Role:** MERN Stack Developer
+**Status:** Software Engineering Student
+**Passion:** Building AI-powered, real-world applications
+**Currently Building:** SkillSync — AI-powered collaboration platform
+
+**Strengths:**
+- Full-Stack Web Development (MERN)
+- Clean UI/UX Implementation
+- AI/ML Integration into Web Apps
+- Problem Solving & System Design
+
+**Fun Fact:** I turn coffee ☕ into scalable code 💻
 
 - 🎓 Software Engineering student, deeply passionate about full-stack development
 - 💜 Specialize in the **MERN Stack** — React, Node.js, Express, MongoDB
@@ -199,7 +197,7 @@ Check out my pinned repositories and GitHub activity below for the latest work, 
 <a href="https://github.com/fakihazahoor168-ctrl">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/fakihazahoor168-ctrl">
+<a href="https://linkedin.com/in/fakiha-zahoor-86789a32a">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:fakihazahoor168@gmail.com">
@@ -223,4 +221,3 @@ Check out my pinned repositories and GitHub activity below for the latest work, 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
-```
